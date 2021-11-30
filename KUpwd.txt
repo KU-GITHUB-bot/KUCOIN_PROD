@@ -1,0 +1,50 @@
+#those are key, secret and passphrase parameters of the test account. You can use them to test the programm (training only, because the account is empty)
+#if you want to trade your own coins, you have to adapt these values. You can also enter an email and set sentEmail to True or delete this row
+api_key = 6177015c90cbca000108212e
+api_secret = 4846ea70-8ffc-489b-b12c-7f94f4db7f8c
+api_passphrase = uuibdsdsd/+dsududs8)()(%FZTVKK
+
+currencyTransactionType = [(ALGO,training)]
+#currencyTransactionType = [(ALGO,training,mix)]
+
+
+#logfilename = KucoinLogFile
+#sentFrom = piZERO Scalper
+#sentTo = .....
+sentEmail = True
+#investMultiplicator = 1
+
+#update = True
+
+#emergencyBreak = 220
+#spike(5min) = False
+#sudden(15min) = True
+#small(1h) = False
+#large(1h) = False
+#2.5hours = False
+#slow(5h) = False
+#verySlow(12h) = False
+#1day = True
+#3days = False
+#5days = False
+
+#2%Slope = True
+#5%Slope = True
+#8%Slope = True
+#10%Slope = True
+#15%Slope = True
+#20%Slope = True
+#timezone = CET
+
+#collectDataPoints = False
+#AdaptiveInvestmentMultiplicator = False
+#requiredOppositeSlopeTuner = 1
+
+#maxInvestInDollar = 10000
+#minInvestInDollar = 1
+#mixOrderTypePercentLimit = 70
+#mixOrderTypePercentMarket = 30
+
+sentSSHMail = True
+emailDetails = Normal
+
