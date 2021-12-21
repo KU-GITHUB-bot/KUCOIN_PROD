@@ -47,4 +47,5 @@ sentEmail = True
 
 sentSSHMail = True
 emailDetails = Normal
-
+depositUSDTIfHigher = 100000
+encryptPWDs = False
